@@ -1,4 +1,4 @@
-# Advertising_Profiling_Learning
+# Advertising_Learning_Model
 
 Correlation between **TV** and **Sales**
 
